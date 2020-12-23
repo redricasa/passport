@@ -1,9 +1,9 @@
 package-lock.json
 node_modules
 
-config/google-ppt-config
-
-config/
+/config/Keys.js
+/Keys
+# /config/google-ppt-config.js
 
 
 
